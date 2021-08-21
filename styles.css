@@ -1,3 +1,11 @@
+@font-face {
+    font-family: 'pixelmplus12bold';
+    src: url('./font/JF-Dot-AyuMin18.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 ul {
 　　overflow:hidden;
 　　list-style:none;
@@ -23,6 +31,9 @@ a {
 }
 
 body {
+   -webkit-font-smoothing: none;
+   -moz-osx-font-smoothing: grayscale;
+   font-family: pixelmplus12bold;
    margin: 4vw 10vw;
    padding: 0;
    background-color: gainsboro;
@@ -38,11 +49,4 @@ html {
 
 }
 
-@font-face {
-	font-family: 'Font';
-	src: url(/font/PixelMplus12-Bold.ttf);
-}
 
-body {
-	font-family: Font;
-}
