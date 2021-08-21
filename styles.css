@@ -37,3 +37,12 @@ html {
       text-align: center;
 
 }
+
+@font-face {
+	font-family: 'Font';
+	src: url(/font/PixelMplus12-Bold.ttf);
+}
+
+body {
+	font-family: Font;
+}
