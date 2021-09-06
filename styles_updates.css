@@ -41,11 +41,11 @@ body {
    font-family: pixelmplus12bold;
    margin: 4vw 10vw;
    padding: 0;
-   background-color: gainsboro;
+   background-color: rgb(255, 255, 255);
 }
 
 html {
-    background-color: lightsteelblue;
+    background-color: rgb(255, 255, 255);
 }
 
 .pic_flame {
@@ -54,6 +54,4 @@ html {
 
 }
 
-.flame {
-  text-align: center
-}
+
