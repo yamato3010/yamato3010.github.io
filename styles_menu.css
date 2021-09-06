@@ -1,0 +1,57 @@
+@font-face {
+    font-family: 'pixelmplus12bold';
+    src: url('./font/JF-Dot-AyuMin18.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+th {
+  font-weight: normal;
+  }
+
+
+ul {
+　　overflow:hidden;
+　　list-style:none;
+　　margin: 0 auto;
+　　z-index: 20;
+}
+
+ul li {
+  display: inline-block;
+  padding: 26px 10px 20px 10px;
+}
+
+a {
+  color: #000000;
+　text-transform: uppercase;
+}
+
+.icon {
+    border-radius: 50%;
+    width:  250px;
+    height: 250px;
+    margin: 0px 45px;
+}
+
+body {
+   -webkit-font-smoothing: none;
+   -moz-osx-font-smoothing: grayscale;
+   font-family: pixelmplus12bold;
+   margin: 4vw 10vw;
+   padding: 0;
+   background-color: gainsboro;
+}
+
+html {
+    background-color: gainsboro;
+}
+
+.pic_flame {
+      display: inline-block;
+      text-align: center;
+
+}
+
+
