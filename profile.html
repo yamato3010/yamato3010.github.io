@@ -8,12 +8,34 @@
         <link href="styles.css" rel="stylesheet">
         <title>プロフィール</title>
     </head>
-    <body>
+    
+        <!--メニュー用-->
+        <div style="border: 0px solid #333; position: fixed; left: 0em; top: 0em; bottom: auto; width: 10em; height: 100%; z-index: 1; margin: 0; padding: 0; color: #F33; background: #FFF; overflow-y: scroll; font-size: 0.81em;">
+            <p><a href="index.html" target="rightframe"><font color="blue"><u>ホーム</u></font></a></p>
+            <p><a href="profile.html" target="rightframe"><font color="blue"><u>プロフィール</u></font></a></p>
+            <p><a href="SNS.html" target="rightframe"><font color="blue"><u>リンク集</u></font></a></p>
+            <p><a href="works.html" target="rightframe"><font color="blue"><u>製作物</u></font></a></p>
+        </div>
+
+        <!--メインコンテンツ用-->
+        <div style="    border: 0px solid #F33;
+        position: fixed;
+        left: 8em;
+        top: 0em;
+        bottom: auto;
+        width: calc(100% - 8em);
+        height: 100%;
+        z-index: 1;
+        margin: 0;
+        padding: 0;
+        color: #333;
+        background: #FFF;
+        overflow-y: scroll;">
       <header>
           <h1 style="text-align:center"><a href="main.html">大和のサイト</a></h1>
        </header>
         <h2>プロフィール</h2>
-        <table>
+        <table border="1">
             <tr>
                 <th style="text-align:center">
                     <img src = "image/icon.jpg" class = "icon">
@@ -30,5 +52,5 @@
                 </th>
             </tr>
         </table>
-    </body>
+    </div>
 </html>
