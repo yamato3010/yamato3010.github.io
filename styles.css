@@ -36,8 +36,7 @@ a {
 }
 
 body {
-   -webkit-font-smoothing: none;
-   -moz-osx-font-smoothing: grayscale;
+ 
    font-family: pixelmplus12bold;
    margin: 4vw 10vw;
    padding: 0;
@@ -45,7 +44,8 @@ body {
 }
 
 html {
-    background-color: lightsteelblue;
+  -webkit-font-smoothing: none;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 .pic_flame {
