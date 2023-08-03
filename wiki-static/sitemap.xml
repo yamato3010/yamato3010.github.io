@@ -7,6 +7,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://yamato3010.github.io/wiki-static/TiddlyWikiを静的サイト化.html</loc>
+		<lastmod>2023-08-03</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://yamato3010.github.io/wiki-static/Tiddlyの使い方.html</loc>
 		<lastmod>2023-08-03</lastmod>
 		<changefreq>weekly</changefreq>
