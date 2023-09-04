@@ -1,14 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>https://yamato3010.github.io/wiki-static/Blender小ネタ.html</loc>
+		<lastmod>2023-09-04</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://yamato3010.github.io/wiki-static/CustomCSS.html</loc>
 		<lastmod>2023-08-03</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://yamato3010.github.io/wiki-static/ONU.html</loc>
+		<lastmod>2023-08-13</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://yamato3010.github.io/wiki-static/TiddlyWikiを静的サイト化.html</loc>
-		<lastmod>2023-08-03</lastmod>
+		<lastmod>2023-08-04</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -25,8 +37,14 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://yamato3010.github.io/wiki-static/VRChatワールド制作.html</loc>
+		<lastmod>2023-08-14</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://yamato3010.github.io/wiki-static/yamato3010.html</loc>
-		<lastmod>2023-08-02</lastmod>
+		<lastmod>2023-08-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -38,7 +56,7 @@
 	</url>
 	<url>
 		<loc>https://yamato3010.github.io/wiki-static/メインページ.html</loc>
-		<lastmod>2023-08-04</lastmod>
+		<lastmod>2023-09-04</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -51,6 +69,24 @@
 	<url>
 		<loc>https://yamato3010.github.io/wiki-static/記事一覧.html</loc>
 		<lastmod>2023-08-04</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://yamato3010.github.io/wiki-static/動画・記事のネタ.html</loc>
+		<lastmod>2023-09-04</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://yamato3010.github.io/wiki-static/動画編集.html</loc>
+		<lastmod>2023-08-15</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://yamato3010.github.io/wiki-static/用語集.html</loc>
+		<lastmod>2023-09-04</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
