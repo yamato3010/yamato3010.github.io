@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>https://yamato3010.github.io/wiki-static/Android%2520アプリでの%2520Hilt%2520の使用.html</loc>
+		<lastmod>2023-09-25</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://yamato3010.github.io/wiki-static/Blender小ネタ.html</loc>
 		<lastmod>2023-09-04</lastmod>
 		<changefreq>weekly</changefreq>
@@ -13,8 +19,56 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://yamato3010.github.io/wiki-static/Jetpack%2520Compose%2520Codelab.html</loc>
+		<lastmod>2023-09-25</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://yamato3010.github.io/wiki-static/Jetpack%2520ComposeにおけるModifier渡し.html</loc>
+		<lastmod>2023-09-25</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://yamato3010.github.io/wiki-static/Kotlin.html</loc>
+		<lastmod>2023-09-05</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://yamato3010.github.io/wiki-static/MacからWindowsのネットワークフォルダにアクセスする.html</loc>
+		<lastmod>2023-10-05</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://yamato3010.github.io/wiki-static/ONU.html</loc>
 		<lastmod>2023-08-13</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://yamato3010.github.io/wiki-static/Resonite.html</loc>
+		<lastmod>2023-10-11</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://yamato3010.github.io/wiki-static/Resoniteでアクセサリを取り付ける時は.html</loc>
+		<lastmod>2023-10-10</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://yamato3010.github.io/wiki-static/sudoの実行にTouch%2520IDを使用する.html</loc>
+		<lastmod>2023-09-29</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://yamato3010.github.io/wiki-static/TiddlyWikiのメニューの追加方法.html</loc>
+		<lastmod>2023-10-04</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -43,8 +97,20 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://yamato3010.github.io/wiki-static/Windows軽量化.html</loc>
+		<lastmod>2023-09-28</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://yamato3010.github.io/wiki-static/yamato3010.html</loc>
 		<lastmod>2023-08-18</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://yamato3010.github.io/wiki-static/カテゴリ一覧.html</loc>
+		<lastmod>2023-10-11</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -55,20 +121,20 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://yamato3010.github.io/wiki-static/ピラミッド問題.html</loc>
+		<lastmod>2023-09-05</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://yamato3010.github.io/wiki-static/メインページ.html</loc>
-		<lastmod>2023-09-04</lastmod>
+		<lastmod>2023-10-04</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://yamato3010.github.io/wiki-static/メニュー.html</loc>
-		<lastmod>2023-08-03</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://yamato3010.github.io/wiki-static/記事一覧.html</loc>
-		<lastmod>2023-08-04</lastmod>
+		<lastmod>2023-10-04</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -86,7 +152,19 @@
 	</url>
 	<url>
 		<loc>https://yamato3010.github.io/wiki-static/用語集.html</loc>
-		<lastmod>2023-09-04</lastmod>
+		<lastmod>2023-10-04</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://yamato3010.github.io/wiki-static/興味のあるアプリケーション.html</loc>
+		<lastmod>2023-09-05</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://yamato3010.github.io/wiki-static/記事一覧.html</loc>
+		<lastmod>2023-08-04</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
