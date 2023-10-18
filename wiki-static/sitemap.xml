@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>https://yamato3010.github.io/wiki-static/【一時停止】Resoniteでスイカゲーム的なものを作る.html</loc>
+		<lastmod>2023-10-18</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://yamato3010.github.io/wiki-static/Android%2520アプリでの%2520Hilt%2520の使用.html</loc>
 		<lastmod>2023-09-25</lastmod>
 		<changefreq>weekly</changefreq>
@@ -49,14 +55,32 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://yamato3010.github.io/wiki-static/perplexity.html</loc>
+		<lastmod>2023-10-17</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://yamato3010.github.io/wiki-static/ProtoFlexのパッキングについて.html</loc>
+		<lastmod>2023-10-12</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://yamato3010.github.io/wiki-static/Resonite.html</loc>
-		<lastmod>2023-10-11</lastmod>
+		<lastmod>2023-10-17</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://yamato3010.github.io/wiki-static/Resoniteでアクセサリを取り付ける時は.html</loc>
 		<lastmod>2023-10-10</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://yamato3010.github.io/wiki-static/Resonite個人的メモ.html</loc>
+		<lastmod>2023-10-12</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -121,8 +145,20 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://yamato3010.github.io/wiki-static/テンプレート.html</loc>
+		<lastmod>2023-10-12</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://yamato3010.github.io/wiki-static/ピラミッド問題.html</loc>
 		<lastmod>2023-09-05</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://yamato3010.github.io/wiki-static/メインディレクトリ.html</loc>
+		<lastmod>2023-10-12</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -134,7 +170,7 @@
 	</url>
 	<url>
 		<loc>https://yamato3010.github.io/wiki-static/メニュー.html</loc>
-		<lastmod>2023-10-04</lastmod>
+		<lastmod>2023-10-12</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
